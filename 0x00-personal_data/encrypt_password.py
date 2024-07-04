@@ -1,4 +1,5 @@
-eturns a salted, hashed password, byte in string """
+#!/usr/bin/env python3
+""" Returns a salted, hashed password, byte in string """
 import bcrypt
 
 
